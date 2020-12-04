@@ -1,5 +1,5 @@
 {
-    "name": "navitronic/psymf",
+    "name": "yickson/psymf",
     "description": "A command line REPL bundle for Symfony using psysh",
     "require": {
         "psy/psysh": "0.4.*",
