@@ -3,7 +3,7 @@ A command line REPL bundle for Symfony using PsySH
 ## Installation
 
 ```
-composer require navitronic/psymf
+composer require yickson/psymf
 ```
 
 ## Usage
