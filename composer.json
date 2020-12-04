@@ -3,7 +3,7 @@
     "description": "A command line REPL bundle for Symfony using psysh",
     "require": {
         "psy/psysh": "0.4.*",
-        "symfony/framework-bundle": "~2.6"
+        "symfony/framework-bundle": "~2.5"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.5"
@@ -13,8 +13,7 @@
     },
     "authors": [
         {
-            "name": "Adrian Palmer",
-            "email": "navitronic@gmail.com"
+            "name": "Yickson Ramirez"
         }
     ]
 }
